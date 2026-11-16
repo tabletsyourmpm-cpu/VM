@@ -1,0 +1,1 @@
+Install Linux mint or use Linux without a VM and hook it up via guacamole
